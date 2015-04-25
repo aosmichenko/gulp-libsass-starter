@@ -1,0 +1,22 @@
+{
+  "name": "brickthemesass-plugins",
+  "version": "0.0.1",
+  "devDependencies": {
+    "bower": "*",
+    "gulp": "*",
+    "del" : "*",
+    "node-sass": "*",
+    "gulp-sass": "*",
+    "node-bourbon": "*",
+    "gulp-autoprefixer": "*",
+    "gulp-concat": "*",
+    "gulp-uglify": "*",
+    "gulp-plumber": "*",
+    "gulp-notify": "*",
+    "gulp-bless": "*",
+    "gulp-rename": "*",
+    "gulp.spritesmith": "*",
+    "gulp-imagemin": "*",
+    "gulp-load-plugins": "*"
+  }
+}
