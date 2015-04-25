@@ -11,12 +11,8 @@
     "gulp-autoprefixer": "*",
     "gulp-concat": "*",
     "gulp-uglify": "*",
-    "gulp-plumber": "*",
     "gulp-notify": "*",
-    "gulp-bless": "*",
     "gulp-rename": "*",
-    "gulp.spritesmith": "*",
-    "gulp-imagemin": "*",
     "gulp-load-plugins": "*"
   }
 }
